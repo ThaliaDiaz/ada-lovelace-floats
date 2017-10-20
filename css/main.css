@@ -1,0 +1,24 @@
+h1{
+    outline: 1px solid lightseagreen;
+    text-align: center;
+}
+
+
+.caja{
+    /*outline: 1px solid rgb(255, 94, 0);   aplicar para ver como esta dibujando mis elementos el html*/ 
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #999;
+    box-sizing: border-box;
+    float: left;
+    margin-left:8px;
+}
+
+img{
+    outline: 1px solid blue;
+    max-width: 100%;
+}
+
+p{
+    outline: solid purple;
+}
